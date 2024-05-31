@@ -1,0 +1,7 @@
+S.No,Range of Rainfall,Actual Rainfall Occurred in districts by range,Normal Rainfall occurred in districts by range 
+1,Below 800 mm,"Tiruvallur, Salem, Tiruchirappalli, Namakkal","Chennai, Kancheepuram, Tiruvarur, Cuddalore, Villupuram, Vellore, Tiruvannamalai "
+2,801 mm to 1000 mm,"Chennai, Vellore, Dharmapuri, Tiruvannamalai, Dharmapuri, Karur, Pudukkottai, Theni, Perambalur","Salem, Namakkal, Dharmapuri, Krishnagiri, Tiruppur, Coimbatore, Erode Tiruchirappalli, Karur Perambalur, Pudukkottai, Thanjavur Nagapattinam, Tiruvarur"
+3,1001 mm to 1200 mm,"Cuddalore, Erode, Sivaganga,Thoothukkudi, Ramanathapuram, Madurai, Nagapattinam Thanjavur, Tiruppur, Krishnagiri","Ramanathapuram, Theni, Dindigul, Sivaganga"
+4,1201 mm to 1400 mm,"Dindigul, Virudhunagar, Tirunelveli, The Nilgiris, Ariyalur","Tirunelveli, Thoothukkudi, Ariyalur, Kanniyakumari"
+5,1401 mm to 1800 mm,Kanniyakumari,NA
+6,1801 mm and above,NA,NA
